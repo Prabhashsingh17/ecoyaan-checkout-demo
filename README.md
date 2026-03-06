@@ -53,8 +53,10 @@ It demonstrates a clean, responsive user flow:
 1. Install dependencies:
 ```bash
 npm install
+
 Run dev server:
 npm run dev
+
 Open:
 http://localhost:3000
 
