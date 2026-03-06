@@ -43,6 +43,12 @@ It demonstrates a clean, responsive user flow:
 - `components/` – reusable UI components (cart summary, stepper)
 - `lib/` – mock cart data + fetch function
 ---
+
+<img width="1387" height="882" alt="image" src="https://github.com/user-attachments/assets/0b758bb7-f480-4f52-b6b3-bc3e28d14855" />
+<img width="1592" height="731" alt="image" src="https://github.com/user-attachments/assets/66033d19-8777-4d16-8ada-e9216e81bae2" />
+<img width="1410" height="910" alt="image" src="https://github.com/user-attachments/assets/f800763e-9ee4-4521-96cb-7d19ba03cebb" />
+<img width="1406" height="709" alt="image" src="https://github.com/user-attachments/assets/fc623441-25c8-4a50-bb00-3683ef7f8970" />
+<img width="1143" height="749" alt="image" src="https://github.com/user-attachments/assets/e13ce161-c8f8-414e-8ac6-da2e336a3758" />
 ### Running Locally
 1. Install dependencies:
 ```bash
@@ -55,8 +61,4 @@ http://localhost:3000
 
 
 
-<img width="1387" height="882" alt="image" src="https://github.com/user-attachments/assets/0b758bb7-f480-4f52-b6b3-bc3e28d14855" />
-<img width="1592" height="731" alt="image" src="https://github.com/user-attachments/assets/66033d19-8777-4d16-8ada-e9216e81bae2" />
-<img width="1410" height="910" alt="image" src="https://github.com/user-attachments/assets/f800763e-9ee4-4521-96cb-7d19ba03cebb" />
-<img width="1406" height="709" alt="image" src="https://github.com/user-attachments/assets/fc623441-25c8-4a50-bb00-3683ef7f8970" />
-<img width="1143" height="749" alt="image" src="https://github.com/user-attachments/assets/e13ce161-c8f8-414e-8ac6-da2e336a3758" />
+
